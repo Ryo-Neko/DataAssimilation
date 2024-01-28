@@ -1,3 +1,5 @@
 *.toml
 lorenz96.ipynb
 test.ipynb
+
+.vscode/
